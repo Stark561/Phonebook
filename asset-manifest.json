@@ -1,13 +1,26 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.07d3183d.js",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.aa113a0d.js",
+    "static/js/601.8d18b7c3.chunk.js": "/goit-react-hw-08-phonebook/static/js/601.8d18b7c3.chunk.js",
+    "static/js/525.f7f1bd99.chunk.js": "/goit-react-hw-08-phonebook/static/js/525.f7f1bd99.chunk.js",
+    "static/js/755.f7f5af59.chunk.js": "/goit-react-hw-08-phonebook/static/js/755.f7f5af59.chunk.js",
+    "static/js/985.8dc8a665.chunk.js": "/goit-react-hw-08-phonebook/static/js/985.8dc8a665.chunk.js",
+    "static/js/270.b46117f4.chunk.js": "/goit-react-hw-08-phonebook/static/js/270.b46117f4.chunk.js",
+    "static/js/366.ff5450c7.chunk.js": "/goit-react-hw-08-phonebook/static/js/366.ff5450c7.chunk.js",
+    "static/media/phonebook.jpg": "/goit-react-hw-08-phonebook/static/media/phonebook.f2d15ffa0ef7e97b0d19.jpg",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
     "main.7acaea2f.css.map": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-08-phonebook/static/js/main.07d3183d.js.map"
+    "main.aa113a0d.js.map": "/goit-react-hw-08-phonebook/static/js/main.aa113a0d.js.map",
+    "601.8d18b7c3.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/601.8d18b7c3.chunk.js.map",
+    "525.f7f1bd99.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/525.f7f1bd99.chunk.js.map",
+    "755.f7f5af59.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/755.f7f5af59.chunk.js.map",
+    "985.8dc8a665.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/985.8dc8a665.chunk.js.map",
+    "270.b46117f4.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/270.b46117f4.chunk.js.map",
+    "366.ff5450c7.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/366.ff5450c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.aa113a0d.js"
   ]
 }
